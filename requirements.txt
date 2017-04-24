@@ -1,1 +1,6 @@
 nbdime
+six
+nbformat
+tornado
+colorama
+backports.shutil_which
