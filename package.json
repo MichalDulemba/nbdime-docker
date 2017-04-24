@@ -4,7 +4,7 @@
   "dependencies": {
     "codemirror": "^5.25.2",
     "json-stable-stringify": "^1.0.1",
-    "jupyter-js-services", "^0.21.1",
-    "jupyterlab", "^0.17.5"
+    "jupyter-js-services": "^0.21.1",
+    "jupyterlab": "^0.17.5"
   }
 }
